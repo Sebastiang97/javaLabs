@@ -1,0 +1,8 @@
+server:
+  port: 8083
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://sebs:123456@127.0.0.1:27017
+      database: database
